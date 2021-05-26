@@ -1,0 +1,50 @@
+body
+{
+	background: linear-gradient(to bottom, #33cc33 0%, #ccff66 100%);
+}
+
+#headerfont
+{
+	font-size: 200%;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	list-style:none;
+}
+
+#headerimg
+{
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+}
+
+.intro
+{
+	text-align: center;
+}
+
+.introcon
+{
+	font-size: 24px;
+	font-weight:bold;
+	text-align: center;
+}
+
+div a
+{
+	text-decoration: none
+}
+
+*
+{
+	box-sizing: border-box;
+}
+#divbox
+{
+	padding: 1px 1px 1px 1px;
+	border: 1px solid black;
+	width: 500px;
+	margin:0px 0px 0px 500px;
+
+}
